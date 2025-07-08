@@ -10,7 +10,7 @@ Caffeinist is a lightweight web app that helps users monitor their coffee consum
 ## 🔗 Live Demo
 
 **[🌐 View on GitHub Pages](https://tijaruS.github.io/Caffeinist/)**  
-> _Replace the link above with your actual deployment URL._
+
 
 ---
 
